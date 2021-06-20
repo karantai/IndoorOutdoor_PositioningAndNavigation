@@ -38,3 +38,8 @@ Due to the limited time handing in the diploma thesis, a lot of changes and opti
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. For any questions, please contact with me on my email g.karantaidis@protonmail.com.
+
+## Mandatory external files
+
+In order for the application to run, two extra files need to be downloaded, the first from [here](https://drive.google.com/file/d/18c39RFxMgVj2VSO0KbvLrS57ztJDssy1/view?usp=sharing, https://drive.google.com/file/d/1HkRmBy8Rkd2vN-6FgmuDRf0BrKRWH2rK/view?usp=sharing) and the second from [here](https://drive.google.com/file/d/18c39RFxMgVj2VSO0KbvLrS57ztJDssy1/view?usp=sharing). Both of them should be put on weights folder.
+
